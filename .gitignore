@@ -1,0 +1,6 @@
+# Compilación y artefactos
+artifacts/
+cache/
+types/
+.deps/
+.states/
